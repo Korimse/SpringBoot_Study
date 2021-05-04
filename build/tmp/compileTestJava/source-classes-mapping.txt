@@ -1,0 +1,4 @@
+board/domain/web/PostsApiControllerTest.java
+ board.domain.web.PostsApiControllerTest
+board/domain/posts/PostsRepositoryTest.java
+ board.domain.posts.PostsRepositoryTest
