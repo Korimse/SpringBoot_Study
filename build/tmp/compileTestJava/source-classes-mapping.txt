@@ -1,6 +1,6 @@
-board/domain/posts/PostsRepositoryTest.java
- board.domain.posts.PostsRepositoryTest
-board/domain/web/IndexControllerTest.java
- board.domain.web.IndexControllerTest
 board/domain/web/PostsApiControllerTest.java
  board.domain.web.PostsApiControllerTest
+board/domain/web/IndexControllerTest.java
+ board.domain.web.IndexControllerTest
+board/domain/posts/PostsRepositoryTest.java
+ board.domain.posts.PostsRepositoryTest
