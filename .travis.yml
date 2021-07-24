@@ -40,7 +40,7 @@ deploy:
     secret_access_key: $AWS_SECRET_KEY
 
     bucket: freelec-springboot-build-z
-    key: freelec-springboot2-webservice.zip
+    key: SpringBoot_Study.zip
 
     bundle_type: zip
     application: freelec-springboot2-webservice
