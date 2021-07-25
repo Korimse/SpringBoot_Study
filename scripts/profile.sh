@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 
 # bash는 return value가 안되니 *제일 마지막줄에 echo로 해서 결과 출력*후, 클라이언트에서 값을 사용한다
