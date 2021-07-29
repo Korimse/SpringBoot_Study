@@ -33,6 +33,8 @@ dependencies {
     compile('org.springframework.boot:spring-boot-starter-mustache')
     compile('org.springframework.boot:spring-boot-starter-oauth2-client')
     compile('org.mariadb.jdbc:mariadb-java-client')
+    compile 'org.springframework.boot:spring-boot-starter-jdbc'
+    compile 'mysql:mysql-connector-java'
     annotationProcessor('org.projectlombok:lombok')
     testAnnotationProcessor('org.projectlombok:lombok')
     testCompile('org.springframework.boot:spring-boot-starter-test')

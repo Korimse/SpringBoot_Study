@@ -21,6 +21,8 @@ board/domain/user/Role.java
 board/web/dto/PostsSaveRequestDto.java
  board.web.dto.PostsSaveRequestDto
  board.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
+board/web/ProfileController.java
+ board.web.ProfileController
 board/web/dto/PostsListResponseDto.java
  board.web.dto.PostsListResponseDto
 board/domain/BaseTimeEntity.java
