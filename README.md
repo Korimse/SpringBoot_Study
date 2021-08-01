@@ -24,4 +24,4 @@
 http://ec2-13-124-177-74.ap-northeast-2.compute.amazonaws.com/
 
 # 학습 중 이슈
-* 노션을 통해 정리 에정
+* 노션을 통해 정리
